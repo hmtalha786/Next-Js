@@ -1,4 +1,4 @@
-# Learn JAMstack Serverless in Baby Steps
+# Learn JAMstack Serverless ( Next Js ) in Baby Steps
 
 Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack, GraphQL and Serverless technologies.
 
