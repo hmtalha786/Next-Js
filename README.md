@@ -41,6 +41,13 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 4 : Styling
 
+<ul>
+  <li>Global Styles</li>
+  <li>Component Styles</li>
+  <li>SASS Support</li>
+  <li>CSS in JS Solution</li>
+</ul>
+
 #### Step # 5 : Miscellaneous
 
 #### Step # 6 : Authentication
