@@ -17,6 +17,18 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 2 : Pre Rendering and Data Fetching
 
+<ul>
+  <li>Pre Rendering</li>
+  <li>Static Side Generation (SSG)</li>
+  <li>getStaticProps</li>
+  <li>Static Generation with Dynamic Parameters</li>
+  <li>getStaticPaths</li>
+  <li>Incremental Static Regeneration (ISR)</li>
+  <li>Server Side Rendering (SSR)</li>
+  <li>getServerSideProps</li>
+  <li>Client Side Data Fetching</li>
+</ul>
+
 #### Step # 3 : API Routes
 
 #### Step # 4 : Styling
