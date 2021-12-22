@@ -50,10 +50,22 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 5 : Miscellaneous
 
+<ul>
+  <li>_app.js</li>
+  <li>Header Component</li>
+  <li>Image Component</li>
+  <li>Absolute Imports & Module paths</li>
+  <li>Static HTML Exports</li>
+  <li>Typescript</li>
+  <li>Preview Mode</li>
+  <li>Redirects</li>
+  <li>Environment Variables</li>
+</ul>
+
 #### Step # 6 : Authentication
 
-#### Step # 7 : Typescript and Testing
+#### Step # 7 : Testing
 
-#### Step # 8 : Backend Integration
+#### Step # 8 : Backend
 
 <img src="./Next.jpg" />
