@@ -64,8 +64,19 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 6 : Authentication
 
+<ul>
+  <li>Next auth library</li>
+  <li>Auth provider setup</li>
+  <li>Sign In & Sign Out</li>
+  <li>Client Side Authentication</li>
+  <li>Server Side Authentication</li>
+  <li>API Routes Authentication</li>
+  <li>Securing Pages Client Side</li>
+  <li>Securing Pages Server Side</li>
+  <li>Database</li>
+  <li>Deployment</li>
+</ul>
+
 #### Step # 7 : Testing
 
 #### Step # 8 : Backend
-
-<img src="./Next.jpg" />
