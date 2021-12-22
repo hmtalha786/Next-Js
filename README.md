@@ -18,7 +18,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 #### Step # 2 : Pre Rendering and Data Fetching
 
 <ul>
-  <li>Pre Rendering</li>
+  <li>CSR / SSG / ISR / SSR</li>
   <li>Static Side Generation (SSG)</li>
   <li>getStaticProps</li>
   <li>Static Generation with Dynamic Parameters</li>
