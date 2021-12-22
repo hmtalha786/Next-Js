@@ -4,6 +4,17 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 1 : Basics of Next Js and Routing
 
+<ul>
+  <li>Page based Routing</li>
+  <li>Nested Routes</li>
+  <li>Dynamic Routes</li>
+  <li>Nested Dynamic Routes</li>
+  <li>Catch All Routes</li>
+  <li>Link Components</li>
+  <li>Programmatic Navigation</li>
+  <li>Custom 404 Page</li>
+</ul>
+
 #### Step # 2 : Pre Rendering and Data Fetching
 
 #### Step # 3 : API Routes
