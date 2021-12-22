@@ -31,6 +31,14 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 3 : API Routes
 
+<ul>
+  <li>File based Routes</li>
+  <li>Handle GET & POST</li>
+  <li>Dynamic API Routes</li>
+  <li>Handle PUT, PATCH & DELETE</li>
+  <li>Catch All</li>
+</ul>
+
 #### Step # 4 : Styling
 
 #### Step # 5 : Miscellaneous
