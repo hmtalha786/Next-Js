@@ -10,20 +10,25 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Project File Structure](https://youtu.be/e-3UPyuOCq0)
 
-### Step # 2 : Routing in Next Js
+#### Step # 2 : Routing in Next Js
 
-<ul>
-  <li>Page based Routing</li>
-  <li>Nested Routes</li>
-  <li>Dynamic Routes</li>
-  <li>Nested Dynamic Routes</li>
-  <li>Catch All Routes</li>
-  <li>Link Components</li>
-  <li>Programmatic Navigation</li>
-  <li>Custom 404 Page</li>
-</ul>
+###### [Page based Routing](https://youtu.be/hvYKrqnY8LM)
 
-### Step # 2 : Pre Rendering and Data Fetching
+###### [Nested Routes](https://youtu.be/f-6GAntaum4)
+
+###### [Dynamic Routes](https://youtu.be/Ql5kyJaYbls)
+  
+###### [Nested Dynamic Routes]()
+  
+###### [Catch All Routes]()
+
+###### [Link Components]()
+  
+###### [Programmatic Navigation]()
+  
+###### [Custom 404 Page]()
+
+#### Step # 3 : Pre-Rendering and Data Fetching
 
 <ul>
   <li>CSR / SSG / ISR / SSR</li>
