@@ -6,7 +6,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Introduction to Next Js](https://youtu.be/9P8mASSREYM)
 
-###### [Hello World in Next Js](https://youtu.be/RY6B7JSBRRg)
+###### [Hello World Program](https://youtu.be/RY6B7JSBRRg)
 
 ###### [Project File Structure](https://youtu.be/e-3UPyuOCq0)
 
