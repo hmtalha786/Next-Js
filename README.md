@@ -18,15 +18,15 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Dynamic Routes](https://youtu.be/Ql5kyJaYbls)
   
-###### [Nested Dynamic Routes]()
+###### [Nested Dynamic Routes](https://youtu.be/nfAxNTmme64)
   
-###### [Catch All Routes]()
+###### [Catch All Routes](https://youtu.be/ZHn726VDoIY)
 
-###### [Link Components]()
+###### [Link Component Navigation](https://youtu.be/sigcnKAPddM)
   
-###### [Programmatic Navigation]()
+###### [Programmatically Navigate](https://youtu.be/8jhLvnm7fmE)
   
-###### [Custom 404 Page]()
+###### [Custom 404 Page](https://youtu.be/vpSDQawRpEk)
 
 #### Step # 3 : Pre-Rendering and Data Fetching
 
