@@ -2,7 +2,15 @@
 
 Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack, GraphQL and Serverless technologies. In this repo we will learn how to develop JAMstack Serverless Websites and Apps using Next.js, Headless CMS, Serverless Functions, Netlify, FaunaDB, Apollo, and GitHub Actions etc.
 
-#### Step # 1 : Basics of Next Js and Routing
+#### Step # 1 : Basics of Next Js
+
+###### [Introduction to Next Js](https://youtu.be/9P8mASSREYM)
+
+###### [Hello World in Next Js](https://youtu.be/RY6B7JSBRRg)
+
+###### [Project File Structure](https://youtu.be/e-3UPyuOCq0)
+
+### Step # 2 : Routing in Next Js
 
 <ul>
   <li>Page based Routing</li>
@@ -15,7 +23,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Custom 404 Page</li>
 </ul>
 
-#### Step # 2 : Pre Rendering and Data Fetching
+### Step # 2 : Pre Rendering and Data Fetching
 
 <ul>
   <li>CSR / SSG / ISR / SSR</li>
@@ -29,7 +37,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Client Side Data Fetching</li>
 </ul>
 
-#### Step # 3 : API Routes
+### Step # 3 : API Routes
 
 <ul>
   <li>File based Routes</li>
@@ -39,7 +47,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Catch All</li>
 </ul>
 
-#### Step # 4 : Styling
+### Step # 4 : Styling
 
 <ul>
   <li>Global Styles</li>
@@ -48,7 +56,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>CSS in JS Solution</li>
 </ul>
 
-#### Step # 5 : Miscellaneous
+### Step # 5 : Miscellaneous
 
 <ul>
   <li>_app.js</li>
@@ -62,7 +70,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Environment Variables</li>
 </ul>
 
-#### Step # 6 : Authentication
+### Step # 6 : Authentication
 
 <ul>
   <li>Next auth library</li>
@@ -77,6 +85,6 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Deployment</li>
 </ul>
 
-#### Step # 7 : Testing
+### Step # 7 : Testing
 
-#### Step # 8 : Backend
+### Step # 8 : Backend
