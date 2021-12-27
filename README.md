@@ -2,6 +2,8 @@
 
 Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack, GraphQL and Serverless technologies. In this repo we will learn how to develop JAMstack Serverless Websites and Apps using Next.js, Headless CMS, Serverless Functions, Netlify, FaunaDB, Apollo, and GitHub Actions etc.
 
+[Complete Youtube Tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+
 #### Step # 1 : Basics of Next Js
 
 ###### [Introduction to Next Js](https://youtu.be/9P8mASSREYM)
