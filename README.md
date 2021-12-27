@@ -46,10 +46,11 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Incremental Static Regeneration (ISR)](https://youtu.be/d5unMDna5ng)
 
-  <li>Server Side Rendering (SSR)</li>
-  <li>getServerSideProps</li>
-  <li>Client Side Data Fetching</li>
-</ul>
+###### [Server Side Rendering (SSR)](https://youtu.be/3eUZeuGXo_U)
+
+###### [SSR with getServerSideProps](https://youtu.be/cPqG8-NoxM0)
+
+###### [SSR with Dynamic Parameters](https://youtu.be/UP8s2_8jxIQ)
 
 ### Step # 3 : API Routes
 
