@@ -52,9 +52,11 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [SSR with Dynamic Parameters](https://youtu.be/UP8s2_8jxIQ)
 
-###### [Client Side Rendering (CSR)](https://youtu.be/k9b_tIhnkls)
+###### [Client Side Rendering / Data Fetching](https://youtu.be/k9b_tIhnkls)
 
 ###### [SWR for Client Side Data Fetching](https://youtu.be/CQ5yHU1wYOo)
+
+###### [Pre rendering + Client side Data Fetching](https://youtu.be/yFvLLPBubfw)
 
 ### Step # 3 : API Routes
 
