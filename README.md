@@ -4,6 +4,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 [Complete Youtube Tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
 
+[Github Code Repository](https://github.com/gopinav/Next-JS-Tutorials)
+
 #### Step # 1 : Basics of Next Js
 
 ###### [Introduction to Next Js](https://youtu.be/9P8mASSREYM)
