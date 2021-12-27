@@ -38,7 +38,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [SSG with Dynamic Parameters](https://youtu.be/1XEe-ng57GA)
 
-###### [SSG with getStaticPaths]()
+###### [SSG with getStaticPaths](https://youtu.be/TOIRxWQPgi0)
 
   <li>Incremental Static Regeneration (ISR)</li>
   <li>Server Side Rendering (SSR)</li>
