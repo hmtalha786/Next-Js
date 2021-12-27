@@ -31,7 +31,9 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 #### Step # 3 : Pre-Rendering and Data Fetching
 
 ###### [Introduction to Pre-Rendering](https://youtu.be/BeXbCgRxifs)
-  <li>Static Side Generation (SSG)</li>
+
+###### [Static Side Generation (SSG)](https://youtu.be/keP1PygtJ8c)
+
   <li>getStaticProps</li>
   <li>Static Generation with Dynamic Parameters</li>
   <li>getStaticPaths</li>
