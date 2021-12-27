@@ -36,7 +36,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Static Generation with getStaticProps](https://youtu.be/7UouvxZ6OaM)
 
-  <li>Static Generation with Dynamic Parameters</li>
+###### [Static Generation with Dynamic Parameters](https://youtu.be/1XEe-ng57GA)
+
   <li>getStaticPaths</li>
   <li>Incremental Static Regeneration (ISR)</li>
   <li>Server Side Rendering (SSR)</li>
