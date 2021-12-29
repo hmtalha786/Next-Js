@@ -72,9 +72,9 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   
 ###### [Catch All API Routes](https://youtu.be/Y8HJCfWRMTE) 
 
-###### [APIs and Pre-rendering](https://youtu.be/lmB340ym6SE) 
+###### [API Routes and Pre-Rendering](https://youtu.be/lmB340ym6SE) 
 
-### Step # 4 : Styling
+#### Step # 5 : Styling
 
 <ul>
   <li>Global Styles</li>
@@ -83,7 +83,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>CSS in JS Solution</li>
 </ul>
 
-### Step # 5 : Miscellaneous
+#### Step # 6 : Miscellaneous
 
 <ul>
   <li>_app.js</li>
@@ -97,7 +97,7 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Environment Variables</li>
 </ul>
 
-### Step # 6 : Authentication
+#### Step # 7 : Authentication
 
 <ul>
   <li>Next auth library</li>
@@ -112,6 +112,6 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
   <li>Deployment</li>
 </ul>
 
-### Step # 7 : Testing
+#### Step # 8 : Testing
 
-### Step # 8 : Backend
+#### Step # 9 : Backend
