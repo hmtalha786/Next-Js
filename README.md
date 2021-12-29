@@ -58,14 +58,21 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [CSR along with Pre Rendering](https://youtu.be/yFvLLPBubfw)
 
-### Step # 3 : API Routes
+#### Step # 4 : API Routes
 
-###### [Intoduction to API Routes](https://youtu.be/aZkZUduCauo)
-  <li>Handle GET & POST</li>
-  <li>Dynamic API Routes</li>
-  <li>Handle PUT, PATCH & DELETE</li>
-  <li>Catch All</li>
-</ul>
+###### [Into to API Routes](https://youtu.be/aZkZUduCauo)
+
+###### [API GET Request](https://youtu.be/GgzWFxIiwK4)
+
+###### [API POST Request](https://youtu.be/wqHGLjuXuHo)
+
+###### [Dynamic API Routes](https://youtu.be/tuxk_VbocBk)
+
+###### [API DELETE Request](https://youtu.be/je8jPi8KOY4)
+  
+###### [Catch All API Routes](https://youtu.be/Y8HJCfWRMTE) 
+
+###### [APIs and Pre-rendering](https://youtu.be/lmB340ym6SE) 
 
 ### Step # 4 : Styling
 
