@@ -76,12 +76,13 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 5 : Styling
 
-<ul>
-  <li>Global Styles</li>
-  <li>Component Styles</li>
-  <li>SASS Support</li>
-  <li>CSS in JS Solution</li>
-</ul>
+###### [Global Level Style](https://youtu.be/k0UTW9dwfbk)
+
+###### [Component Level Styles](https://youtu.be/NHr1HduGz08)
+
+###### [SASS / SCSS Support](https://youtu.be/_14sPRuHcYw)
+
+###### [CSS in JS Solution](https://youtu.be/Tj22PRt2hiU)
 
 #### Step # 6 : Miscellaneous
 
