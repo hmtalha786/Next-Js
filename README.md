@@ -114,6 +114,10 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Client Side Authentication](https://youtu.be/B5wyB5QiseU)
 
+###### [Securing Page on Client Side](https://youtu.be/vCpqiRabmDk)
+
+###### [NextAuth Provider](https://youtu.be/dhLo-GhOPRw)
+
   <li>Server Side Authentication</li>
   <li>API Routes Authentication</li>
   <li>Securing Pages Client Side</li>
