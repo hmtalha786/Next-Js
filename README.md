@@ -86,9 +86,10 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 6 : Miscellaneous
 
-<ul>
-  <li>_app.js</li>
-  <li>Header Component</li>
+###### [App Layout](https://youtu.be/9g_3Zsoj17I)
+
+###### [Header Component](https://youtu.be/vWWd5ezQTic)
+
   <li>Image Component</li>
   <li>Absolute Imports & Module paths</li>
   <li>Static HTML Exports</li>
