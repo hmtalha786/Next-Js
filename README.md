@@ -90,7 +90,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Header Component](https://youtu.be/vWWd5ezQTic)
 
-  <li>Image Component</li>
+###### [Image Component](https://youtu.be/ZRZngn_GdXY)
+
   <li>Absolute Imports & Module paths</li>
   <li>Static HTML Exports</li>
   <li>Typescript</li>
