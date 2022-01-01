@@ -126,4 +126,4 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Connecting to Database](https://youtu.be/H4ptrFimcSM)
 
-###### [Deployment to Vercel]()
+###### [Deployment to Vercel](https://youtu.be/KmxAH7ng8Qw)
