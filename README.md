@@ -100,9 +100,9 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Preview Mode](https://youtu.be/BYvH0G02uuI)
 
-  <li>Redirects</li>
-  <li>Environment Variables</li>
-</ul>
+###### [Redirect User](https://youtu.be/NNxkIOlMBDc)
+
+###### [Environment Variables](https://youtu.be/vS86x_e0zBk)
 
 #### Step # 7 : Authentication
 
