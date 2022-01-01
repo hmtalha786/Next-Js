@@ -124,6 +124,6 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [API Routes Authentication](https://youtu.be/ODL0Dlh7ZFE)
 
-###### [Connecting to Database]()
+###### [Connecting to Database](https://youtu.be/H4ptrFimcSM)
 
 ###### [Deployment to Vercel]()
