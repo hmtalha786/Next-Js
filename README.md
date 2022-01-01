@@ -118,14 +118,12 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [NextAuth Provider](https://youtu.be/dhLo-GhOPRw)
 
-  <li>Server Side Authentication</li>
-  <li>API Routes Authentication</li>
-  <li>Securing Pages Client Side</li>
-  <li>Securing Pages Server Side</li>
-  <li>Database</li>
-  <li>Deployment</li>
-</ul>
+###### [Server Side Authentication](https://youtu.be/ae8lxOOhOtY)
 
-#### Step # 8 : Testing
+###### [Securing Page on Server Side](https://youtu.be/jbcChDTnPuU)
 
-#### Step # 9 : Backend
+###### [API Routes Authentication](https://youtu.be/ODL0Dlh7ZFE)
+
+###### [Connecting to Database]()
+
+###### [Deployment to Vercel]()
