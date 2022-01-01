@@ -96,7 +96,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Static HTML Exports](https://youtu.be/T2Z6JVzz854)
 
-  <li>Typescript</li>
+###### [Typescript Support](https://youtu.be/2SLLvO9OK10)
+
   <li>Preview Mode</li>
   <li>Redirects</li>
   <li>Environment Variables</li>
