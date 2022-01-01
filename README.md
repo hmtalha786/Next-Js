@@ -94,7 +94,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Absolute Imports & Module paths](https://youtu.be/V-ntY44UvhM)
 
-  <li>Static HTML Exports</li>
+###### [Static HTML Exports](https://youtu.be/T2Z6JVzz854)
+
   <li>Typescript</li>
   <li>Preview Mode</li>
   <li>Redirects</li>
