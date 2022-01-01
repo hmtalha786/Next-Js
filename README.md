@@ -92,7 +92,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Image Component](https://youtu.be/ZRZngn_GdXY)
 
-  <li>Absolute Imports & Module paths</li>
+###### [Absolute Imports & Module paths](https://youtu.be/V-ntY44UvhM)
+
   <li>Static HTML Exports</li>
   <li>Typescript</li>
   <li>Preview Mode</li>
