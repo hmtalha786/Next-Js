@@ -98,7 +98,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Typescript Support](https://youtu.be/2SLLvO9OK10)
 
-  <li>Preview Mode</li>
+###### [Preview Mode](https://youtu.be/BYvH0G02uuI)
+
   <li>Redirects</li>
   <li>Environment Variables</li>
 </ul>
