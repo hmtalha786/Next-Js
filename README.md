@@ -106,9 +106,9 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 #### Step # 7 : Authentication
 
-<ul>
-  <li>Next auth library</li>
-  <li>Auth provider setup</li>
+###### [Authentication in Next](https://youtu.be/Lfgdc8r8CRE)
+
+###### [NextAuth Setup Guide](https://youtu.be/Aiqzfmy9A_4)
   <li>Sign In & Sign Out</li>
   <li>Client Side Authentication</li>
   <li>Server Side Authentication</li>
