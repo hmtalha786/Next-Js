@@ -112,7 +112,8 @@ Here we will learn to develop blazingly fast and scalable modern websites and ap
 
 ###### [Sign In & Sign Out](https://youtu.be/K08z-qiySZg)
 
-  <li>Client Side Authentication</li>
+###### [Client Side Authentication](https://youtu.be/B5wyB5QiseU)
+
   <li>Server Side Authentication</li>
   <li>API Routes Authentication</li>
   <li>Securing Pages Client Side</li>
